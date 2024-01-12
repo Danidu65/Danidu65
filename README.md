@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danidu65](https://github.com/Danidu65)
 
+- 👨‍💻 you can visit now my website **https://danidu65.github.io/test/**
+
 - 📫 How to reach me **daniduijse65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
