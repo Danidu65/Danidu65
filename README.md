@@ -1,6 +1,6 @@
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc0ac613-a116-4c76-83ba-0d2b8929d89d" alt="Loading Animation" >
+</p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=00ffff&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Danidu+Viraj..!;+I'm+a+Student.;+I'm+a+Fullstack+Developer.;" />
 </h1>
