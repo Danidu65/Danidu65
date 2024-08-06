@@ -1,5 +1,5 @@
 
-![Uploading 031e9682fad5748c8515ec9089b69b27.gif…]()
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=00ffff&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Danidu+Viraj..!;+I'm+a+Student.;+I'm+a+Fullstack+Developer.;" />
