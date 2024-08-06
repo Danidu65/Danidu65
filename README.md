@@ -6,11 +6,11 @@
 </h1>
 <h3 align="center">A student that trying to be a full-stack software engineer</h3>
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Danidu65)
+- 👨‍💻 All of my projects are available at [https://github.com/Danidu65](https://github.com/Danidu65)
 
-- 👾 You can visit my website [Portfolio](https://danidu65.github.io/portfolio/)
+- 👾 you can visit now my website [https://danidu65.github.io/portfolio/](https://danidu65.github.io/portfolio/)
 
-- 📫 How to reach me: [daniduijse65@gmail.com](mailto:daniduijse65@gmail.com)
+- 📫 How to reach me **daniduijse65@gmail.com** 
 
 
 <h3 align="left">Connect with me:</h3>
