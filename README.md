@@ -1,5 +1,23 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGbllhSu2SD_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Danidu65.io)
-<h1 align="center">Hi 👋, I'm Danidu Viraj</h1>
+# Welcome to My GitHub Profile!
+
+<div style="font-family: monospace; font-size: 24px; font-weight: bold; text-align: center;">
+  <span style="border-right: 0.15em solid orange; white-space: nowrap; overflow: hidden; display: inline-block; animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;">
+    🌟 Welcome to my GitHub profile! 🌟
+  </span>
+</div>
+
+<style>
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: orange; }
+}
+</style>
+
 <h3 align="center">A student that trying to be a full-stack software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danidu65&label=Profile%20views&color=0e75b6&style=flat" alt="danidu65" /> </p>
