@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Danidu Viraj</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=00F500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Danidu+Viraj!;+I'm+a+Student.;+I'm+a+Fullstack+Developer.;" />
+</h1>
 <h3 align="center">A student that trying to be a full-stack software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danidu65&label=Profile%20views&color=0e75b6&style=flat" alt="danidu65" /> </p>
