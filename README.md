@@ -6,11 +6,11 @@
 </h1>
 <h3 align="center">A student that trying to be a full-stack software engineer</h3>
 
-- [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Danidu65)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Danidu65)
 
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=globe&logoColor=white)](https://danidu65.github.io/portfolio/)
+- 👾 You can visit my website [Portfolio](https://danidu65.github.io/portfolio/)
 
-- [![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:daniduijse65@gmail.com)
+- 📫 How to reach me: [daniduijse65@gmail.com](mailto:daniduijse65@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
